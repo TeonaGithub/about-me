@@ -1,0 +1,12 @@
+body {background-color: #F5F5F5; margin: 0px;}
+
+*{box-sizing: border-box;}
+
+.container {position: absolute;  width: 1500px; height: 500px;  margin-top:  150px; margin-bottom: 150px; background-color:  #263238;}
+
+.box1 {display: flex; justify-content: left;}
+img {width: 400px; height: 400px; margin-left: 100px; margin-top: 30px;}
+
+.s1 { position: absolute; font-size: 24px; color:#457B9D;margin-top: 90px; margin-left: 700px;}
+.s2 {position: absolute; font-size: 30px;  color: #FFFFFF; margin-top: 130px; margin-left: 700px;}
+.s3 {position: absolute; color: white; font-size: 20px; margin-top: 180px; margin-left: 700px;}
